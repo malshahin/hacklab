@@ -68,7 +68,7 @@ Thanks for your interest in contributing to **HackLab**, a Bash-based terminal e
 
   
 ## 🛡 Code of Conduct
-Please follow our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
+Please follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 We expect all contributors to behave respectfully, collaboratively, and professionally.
 
