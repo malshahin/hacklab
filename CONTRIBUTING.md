@@ -11,7 +11,7 @@ Thanks for your interest in contributing to **HackLab**, a Bash-based terminal e
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/malshahin/hacklab.git
+   git clone https://github.com/YOUR-USERNAME/hacklab.git
    cd hacklab
    ```
 3. **Create a new branch**
